@@ -1,0 +1,31 @@
+{
+  "likes": [
+    {
+      "id": 663136,
+      "title": "Thai Pizza",
+      "image": "https://spoonacular.com/recipeImages/663136-312x231.jpg"
+    },
+    {
+      "id": 716300,
+      "title": "Plantain Pizza",
+      "image": "https://spoonacular.com/recipeImages/716300-312x231.jpg"
+    }
+  ],
+  "shoppinglist": [
+    {
+      "id": 680975,
+      "title": "BLT Pizza",
+      "image": "https://spoonacular.com/recipeImages/680975-312x231.jpg"
+    },
+    {
+      "id": 636754,
+      "title": "Cake De Naranja",
+      "image": "https://spoonacular.com/recipeImages/636754-312x231.jpg"
+    },
+    {
+      "id": 1499853,
+      "title": "Cake Mix Donuts",
+      "image": "https://spoonacular.com/recipeImages/1499853-312x231.jpg"
+    }
+  ]
+}
